@@ -48,8 +48,8 @@ const MemberCards = () => {
     },
     {
       id: 5,
-      name: "Varenkajolicoeur-eng",
-      githubUsername: "addyosmani", 
+      name: "Varenka Jolicoeur",
+      githubUsername: "Varenkajolicoeur-eng", 
       role: language === 'fr' ? "QA & Assurance Qualité Web" : "QA & Web Quality Assurance",
       competences: ["Validation W3C", "Tests Unitaires", "Optimisation UI", "Sécurité Web"],
       parcours: language === 'fr'
