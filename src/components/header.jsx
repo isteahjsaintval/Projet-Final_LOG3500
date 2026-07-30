@@ -19,7 +19,7 @@ const Header = () => {
     <header className="app-header">
       <div className="header-container">
         <Link to="/" className="brand-logo" onClick={closeMenu}>
-          LOG3500<span>.Portfolio</span>
+          LOG3500<span>Portfolio</span>
         </Link>
 
         <button 
